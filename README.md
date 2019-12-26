@@ -1,6 +1,7 @@
 # Natron Renderer Docker
 
-![Docker Build Status](https://img.shields.io/docker/build/rodrigobrito/natron)![Docker Automated build](https://img.shields.io/docker/automated/rodrigobrito/natron)
+![Docker Build Status](https://img.shields.io/docker/build/rodrigobrito/natron)
+![Docker Automated build](https://img.shields.io/docker/automated/rodrigobrito/natron)
 
 Simple docker image to render Natron projects.
 
